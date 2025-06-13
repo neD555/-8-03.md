@@ -27,6 +27,13 @@
 
 В качестве ответа в репозиторий шаблона с решением добавьте скриншоты с настройками раннера в проекте.
 
+Ответ на задание 1:
+ 1.Gitlab,проект и репозиторий созданы.
+ ![image](https://github.com/user-attachments/assets/fc9055ee-aece-4752-bab5-12e21d03eeb3)
+ 2.gitlab-runner.
+ ![image](https://github.com/user-attachments/assets/12cee229-509a-4b54-a41a-6ef2e59f252d)
+ ![image](https://github.com/user-attachments/assets/b71a683b-8f44-4a2e-9e76-fdb8a185a634)
+
 ---
 
 Задание 2
