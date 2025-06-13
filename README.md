@@ -29,11 +29,12 @@
 
 Ответ на задание 1:
  1.Gitlab,проект и репозиторий созданы.
- ![image](https://github.com/user-attachments/assets/fc9055ee-aece-4752-bab5-12e21d03eeb3)
+![Задание1(1)](https://github.com/user-attachments/assets/c978ab74-8ce6-4037-8786-082f66645d07) 
  2.gitlab-runner.
- ![image](https://github.com/user-attachments/assets/12cee229-509a-4b54-a41a-6ef2e59f252d)
- ![image](https://github.com/user-attachments/assets/b71a683b-8f44-4a2e-9e76-fdb8a185a634)
+ ![Задание1(2)](https://github.com/user-attachments/assets/8ad627f8-55df-42bb-9f36-f4a030cf6954)
+ ![Задание1(3)](https://github.com/user-attachments/assets/3358bbae-05b8-47e0-84e1-a9881ced1136)
 
+ 
 ---
 
 Задание 2
@@ -47,3 +48,11 @@
    
  * файл gitlab-ci.yml для своего проекта или вставьте код в соответствующее поле в шаблоне; 
  * скриншоты с успешно собранными сборками.
+
+ Ответ на задание 2:
+ ![Задание2(1)](https://github.com/user-attachments/assets/7e94cb52-7870-430e-9066-312bdd822cad)
+ ![Задание2(2)](https://github.com/user-attachments/assets/84e50769-dbbf-4b89-8cc2-60148ae58f25)
+ ![Задание2(3)](https://github.com/user-attachments/assets/4c5b6ada-9752-451e-8f51-276d769b7568)
+
+
+
